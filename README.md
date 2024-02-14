@@ -1,0 +1,1 @@
+The Tesla Website Clone is a static website project aimed at replicating the design and functionality of the Tesla website. This project serves as a demonstration of front-end development skills and provides an interactive experience for users to explore Tesla's products and features.
